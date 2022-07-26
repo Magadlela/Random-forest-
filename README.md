@@ -17,7 +17,7 @@ Last line: Target values separated by spaces
 ```
 Numpy array of 1's and 0's
 ```
-###Sample Input
+### Sample Input
 ```
 1
 10
